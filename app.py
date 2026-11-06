@@ -63,7 +63,7 @@ FEATURES = [
 # --------------------------------------------------
 
 BASE_DIR = Path(__file__).resolve().parent
-MODEL_DIR = BASE_DIR / "model"
+MODEL_DIR = BASE_DIR 
 
 MODEL_FILES = {
     "Logistic Regression": "logistic_regression.joblib",
