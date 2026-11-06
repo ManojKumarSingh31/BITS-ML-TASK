@@ -210,7 +210,7 @@ streamlit run app.py
 
 ## 9. Streamlit Application
 
-**Live Application:** _Add the deployed Streamlit app URL here after deployment._
+**Live Application:** (https://bits-ml-task-1.streamlit.app/)
 
 The Streamlit application is designed to provide:
 
